@@ -27,6 +27,7 @@ O projeto nasceu da experiência de participar de palestras científicas realiza
 * Apresentação dos temas discutidos nas palestras.
 * Galeria de informações sobre os palestrantes.
 * Layout focado na experiência do usuário e na clareza das informações científicas.
+* Esse site foi apenas para testar novas funcionalidades.
 
 ---
 
