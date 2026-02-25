@@ -4,7 +4,7 @@
   <img src="PintOfimg.png" alt="Logo do Projeto" width="150">
 </p>
 
-> Site desenvolvido como atividade acadêmica para o curso de **Sistemas de Informação (IFPR)**, inspirado no evento de divulgação científica realizado em ambiente descontraído.
+> Site desenvolvido como atividade acadêmica para o curso de **Sistemas de Informação (IFPR)**, inspirado no evento de divulgação científica realizado em ambiente descontraído. Feito em Junho de 2025.
 
 ---
 
