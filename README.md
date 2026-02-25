@@ -1,7 +1,7 @@
 # 🧪 Piteofscience (Pint of Science)
 
 <p align="center">
-  <img src="./img/logo.png" alt="Logo do Projeto" width="150">
+  <img src="PintOfimg.png" alt="Logo do Projeto" width="150">
 </p>
 
 > Site desenvolvido como atividade acadêmica para o curso de **Sistemas de Informação (IFPR)**, inspirado no evento de divulgação científica realizado em ambiente descontraído.
