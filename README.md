@@ -20,7 +20,7 @@ O projeto nasceu da experiência de participar de palestras científicas realiza
 
 ## 📸 Registro do Evento
 <p align="center">
-  <img src="./img/screenshot.png" alt="Screenshot do Site Piteofscience" width="100%">
+  <img src="abertura-evento.jpeg" alt="Screenshot do Site Piteofscience" width="100%">
 </p>
 
 ## 📌 Funcionalidades
